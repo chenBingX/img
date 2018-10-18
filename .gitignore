@@ -1,0 +1,32 @@
+#Android generated
+bin
+gen
+.idea/*
+
+#Eclipse
+.project
+.classpath
+.settings
+.iml
+project.properties
+local.properties
+
+#Android Studio
+*.iml
+.idea
+
+#Maven
+target
+release.properties
+pom.xml.*
+
+#OSX
+.DS_Store
+
+#Gradle
+.gradle
+build/build/
+ui/build/
+build/intermediates/
+*/build/
+build
