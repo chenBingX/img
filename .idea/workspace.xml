@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
+      <change afterPath="$PROJECT_DIR$/其它/七牛图床图没了.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,13 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="numpy数据类型.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/numpy数据类型.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="局部最优.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/机器学习相关/局部最优.jpg">
           <provider selected="true" editor-type-id="images">
@@ -102,8 +96,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ai封面3.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ai封面3.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/机器学习相关/ai封面3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="七牛图床图没了.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/其它/七牛图床图没了.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -144,7 +145,7 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="机器学习相关" type="462c0819:PsiDirectoryNode" />
+              <item name="其它" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,12 +165,12 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/其它" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/机器学习相关" />
-      <recent name="$PROJECT_DIR$/其它" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -605,7 +606,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="42" width="1291" height="881" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -617,7 +617,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32831737" />
       <window_info anchor="bottom" id="CheckStyle" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31874144" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31874144" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21643613" />
@@ -659,11 +659,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/机器学习相关/局部最优解2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/鞍点.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -908,6 +903,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/ai封面3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/七牛图床图没了.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
