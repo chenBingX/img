@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习相关/0范数.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,13 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="局部最优.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习相关/局部最优.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="鞍点.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/机器学习相关/鞍点.jpg">
           <provider selected="true" editor-type-id="images">
@@ -77,8 +71,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="七牛图床图没了.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="七牛图床图没了.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/其它/七牛图床图没了.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="范数公式.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习相关/范数公式.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0范数.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/机器学习相关/0范数.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -96,6 +104,12 @@
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="798" />
+    <option name="y" value="23" />
+    <option name="width" value="895" />
+    <option name="height" value="881" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -111,12 +125,12 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="其它" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="其它" type="462c0819:PsiDirectoryNode" />
+              <item name="机器学习相关" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,8 +143,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/其它" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
+      <recent name="$PROJECT_DIR$/其它" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/机器学习相关" />
@@ -567,7 +581,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="42" width="1291" height="881" extended-state="0" />
+    <frame x="798" y="23" width="895" height="881" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -579,10 +594,10 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32831737" />
       <window_info anchor="bottom" id="CheckStyle" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31874144" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33333334" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21643613" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3337335" />
       <window_info anchor="right" id="Artist Preview" order="3" />
       <window_info anchor="bottom" id="Statistic" order="8" />
       <window_info anchor="right" id="Color Manager" order="4" />
@@ -620,16 +635,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/机器学习相关/平滑的鞍.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习相关/cnn_bb_网络结构.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/cnn_bb_网络结构_hidden1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -877,6 +882,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/其它/七牛图床图没了.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习相关/范数公式.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习相关/0范数.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
