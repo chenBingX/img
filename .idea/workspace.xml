@@ -6,11 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
-      <change afterPath="$PROJECT_DIR$/机器学习相关/0范数近似图像.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习相关/1范数图像.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习相关/2范数图像.png" afterDir="false" />
-    </list>
+    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -583,6 +579,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="798" y="23" width="895" height="881" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
