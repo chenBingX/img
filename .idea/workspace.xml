@@ -19,13 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ai封面2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习相关/ai封面2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ai封面3.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/机器学习相关/ai封面3.jpg">
           <provider selected="true" editor-type-id="images">
@@ -40,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="范数公式.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="范数公式.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/机器学习相关/范数公式.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -84,6 +77,13 @@
       </file>
       <file leaf-file-name="0范数Loss.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/机器学习相关/0范数Loss.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1范数.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/机器学习相关/1范数.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -579,6 +579,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="798" y="23" width="895" height="881" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -631,11 +632,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/机器学习相关/梯度爆炸图像.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/image_graph.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -888,6 +884,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/范数公式.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习相关/1范数.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
