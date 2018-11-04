@@ -6,7 +6,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload" />
+    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爆漫/images.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/暴漫/images.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +98,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="798" />
     <option name="y" value="23" />
     <option name="width" value="895" />
     <option name="height" value="881" />
@@ -116,6 +118,11 @@
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="其它" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="暴漫" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
@@ -571,8 +578,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="798" y="23" width="895" height="881" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="895" height="881" extended-state="0" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -625,11 +631,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/机器学习相关/image_graph.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/image_conv_compute.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -877,6 +878,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/VGG16网络结构.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爆漫/images.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
