@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stv/文字渐变色.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,62 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="images-2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/images-2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="images-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/images-1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="images-1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/images-1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="images.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/images.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="images.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/images.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="download-1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/download-1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="u=4145703872,2664040760&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/u=4145703872,2664040760&amp;fm=26&amp;gp=0.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="u=4092106214,786434457&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/暴漫/u=4092106214,786434457&amp;fm=26&amp;gp=0.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="u=3797403416,1912387487&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/暴漫/u=3797403416,1912387487&amp;fm=26&amp;gp=0.jpg">
           <provider selected="true" editor-type-id="images">
@@ -84,8 +29,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="点赞.gif" pinned="false" current-in-tab="true">
+      <file leaf-file-name="点赞.gif" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/暴漫/点赞.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u=343452579,826911251&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其它/u=343452579,826911251&amp;fm=26&amp;gp=0.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u=3680923293,1495896930&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其它/u=3680923293,1495896930&amp;fm=26&amp;gp=0.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u=2051975322,3785503293&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其它/u=2051975322,3785503293&amp;fm=26&amp;gp=0.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="download.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其它/download.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u=2111584605,3825924903&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其它/u=2111584605,3825924903&amp;fm=26&amp;gp=0.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u=2294437324,1126471106&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其它/u=2294437324,1126471106&amp;fm=26&amp;gp=0.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u=3268277154,2163622391&amp;fm=26&amp;gp=0.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/其它/u=3268277154,2163622391&amp;fm=26&amp;gp=0.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="文字渐变色.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stv/文字渐变色.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -105,8 +106,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="895" />
-    <option name="height" value="881" />
+    <option name="width" value="1044" />
+    <option name="height" value="897" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -123,7 +124,7 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="机器学习相关" type="462c0819:PsiDirectoryNode" />
+              <item name="其它" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,6 +137,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stv" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
       <recent name="$PROJECT_DIR$/其它" />
     </key>
@@ -574,8 +576,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="895" height="881" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1044" height="897" extended-state="0" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -587,10 +588,10 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32831737" />
       <window_info anchor="bottom" id="CheckStyle" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32587412" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3337335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28309572" />
       <window_info anchor="right" id="Artist Preview" order="3" />
       <window_info anchor="bottom" id="Statistic" order="8" />
       <window_info anchor="right" id="Color Manager" order="4" />
@@ -628,54 +629,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
-          <folding>
-            <element signature="e#1181#1282#0" expanded="true" />
-            <element signature="e#1836#1920#0" expanded="true" />
-            <element signature="e#2558#2820#0" expanded="true" />
-            <element signature="e#8822#9413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它/七牛图床图没了.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习相关/0范数.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习相关/0范数近似图像.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习相关/2范数图像.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习相关/1范数图像.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习相关/0范数优化式.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习相关/0范数Loss.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/机器学习相关/范数公式.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -887,6 +840,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/暴漫/点赞.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=2051975322,3785503293&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/download.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=343452579,826911251&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=2111584605,3825924903&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=2294437324,1126471106&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=3268277154,2163622391&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=3680923293,1495896930&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/文字渐变色.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
