@@ -19,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="渐变色.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="渐变色.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stv/渐变色.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -40,22 +40,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="屏幕快照 2017-04-18 08.16.13.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.13.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="屏幕快照 2017-11-16 01.51.33.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.51.33.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperTextView_cover0.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stv/SuperTextView_cover0.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -68,22 +54,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SuperTextView.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stv/SuperTextView.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Opportunity.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stv/Opportunity.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="屏幕快照 2017-11-16 01.46.23.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.46.23.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="多Adjuster演示.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stv/多Adjuster演示.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="图片下载演示2.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stv/图片下载演示2.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="图片下载列表演示.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stv/图片下载列表演示.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperTextView.gif" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stv/SuperTextView.gif">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -521,11 +521,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/暴漫/u=3522817701,3951306915&amp;fm=26&amp;gp=0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/暴漫/u=882152114,566911940&amp;fm=26&amp;gp=0.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -701,17 +696,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stv/图片下载列表演示.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stv/TB1JEPSrH9YBuNjy0FgXXcxcXXa-1195-622.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stv/图片下载演示2.gif">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -732,11 +717,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.13.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stv/SuperTextView.gif">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -772,6 +752,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stv/渐变色.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/多Adjuster演示.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/图片下载演示2.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/图片下载列表演示.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/SuperTextView.gif">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
