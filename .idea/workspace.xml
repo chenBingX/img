@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="屏幕快照 2017-04-18 08.15.59.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="屏幕快照 2017-04-18 08.15.59.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -82,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opportunity.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Opportunity.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stv/Opportunity.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -469,7 +469,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1044" height="897" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -752,11 +751,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.13.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -773,6 +767,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stv/Opportunity.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
