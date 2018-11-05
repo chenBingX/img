@@ -19,14 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="按压变色.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stv/按压变色.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="渐变色.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="渐变色.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stv/渐变色.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -40,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="屏幕快照 2017-04-18 08.15.59.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="屏幕快照 2017-04-18 08.15.59.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -84,6 +77,13 @@
       </file>
       <file leaf-file-name="Opportunity.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stv/Opportunity.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="屏幕快照 2017-11-16 01.46.23.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.46.23.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -681,11 +681,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.46.23.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stv/属性替换.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -731,32 +726,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stv/渐变色.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.51.33.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stv/SuperTextView_cover0.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.42.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.13.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.22.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -772,6 +747,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.42.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.51.33.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.22.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.46.23.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/渐变色.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
