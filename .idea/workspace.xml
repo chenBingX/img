@@ -26,13 +26,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="屏幕快照 2017-04-18 08.15.42.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.42.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="屏幕快照 2017-11-16 01.51.33.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.51.33.png">
           <provider selected="true" editor-type-id="images">
@@ -469,7 +462,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1044" height="897" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -481,10 +473,10 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32831737" />
       <window_info anchor="bottom" id="CheckStyle" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35384616" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35384616" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30040732" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30040732" />
       <window_info anchor="right" id="Artist Preview" order="3" weight="0.3299389" />
       <window_info anchor="right" id="Color Manager" order="4" weight="0.3299389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -662,11 +654,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stv/SuperTextView_yuan 2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stv/stv_2.0_2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -768,6 +755,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stv/SuperTextView.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stv/SuperTextView_yuan 2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
