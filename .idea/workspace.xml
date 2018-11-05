@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
-      <change afterPath="$PROJECT_DIR$/stv/文字渐变色.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stv/文字渐变色.png" beforeDir="false" afterPath="$PROJECT_DIR$/stv/文字渐变色.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,6 +124,11 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="stv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="其它" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -166,7 +171,23 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/其它/tflite和kotlin大小.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/Opportunity.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/SuperTextView.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/SuperTextView_cover0.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/SuperTextView_yuan 2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/TB1JEPSrH9YBuNjy0FgXXcxcXXa-1195-622.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/stv_2.0_2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/图片下载列表演示.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/图片下载演示2.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.42.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.13.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.22.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.46.23.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.51.33.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/按压变色.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/stv/渐变色.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/文件/mn_1tf.zip</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -577,6 +598,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1044" height="897" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -592,9 +614,9 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28309572" />
-      <window_info anchor="right" id="Artist Preview" order="3" />
+      <window_info anchor="right" id="Artist Preview" order="3" weight="0.3299389" />
       <window_info anchor="bottom" id="Statistic" order="8" />
-      <window_info anchor="right" id="Color Manager" order="4" />
+      <window_info anchor="right" id="Color Manager" order="4" weight="0.3299389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Mirror" order="8" />
       <window_info anchor="right" id="Theme Preview" order="3" />
