@@ -6,9 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +76,11 @@
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Dart" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,7 +88,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -401,6 +404,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="38" width="926" height="982" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4398148" />
       <window_info id="Structure" order="1" weight="0.25" />
