@@ -6,9 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,7 @@
     <session id="-852413840">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -56,18 +54,13 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Flutter/flutter-ui多.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -105,7 +98,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="17" />
-    <option name="y" value="38" />
+    <option name="y" value="37" />
     <option name="width" value="1009" />
     <option name="height" value="982" />
   </component>
@@ -122,6 +115,11 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="AndroidStudio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
@@ -455,7 +453,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="38" width="1009" height="982" extended-state="0" />
+    <frame x="17" y="37" width="1009" height="982" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3305174" />
@@ -564,15 +562,6 @@
     <entry file="file://$PROJECT_DIR$/Flutter/hot-reload.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-plugin.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/flutter-ui多.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/flutter-架构.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -585,7 +574,16 @@
     <entry file="file://$PROJECT_DIR$/Flutter/Flutterdemo1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-plugin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/flutter-ui多.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
