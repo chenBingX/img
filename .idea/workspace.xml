@@ -47,13 +47,13 @@
     <session id="-1436211232">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="png" value="12" />
+          <entry key="png" value="13" />
           <entry key="svg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="12" />
+          <entry key="Image" value="13" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
@@ -84,8 +84,13 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dart/dart_logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo2.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -611,8 +616,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-114" y="1073" width="1004" height="818" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3014553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3014553" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Image Layers" order="3" />
@@ -627,7 +633,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.31615925" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2617354" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2617354" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
@@ -703,7 +709,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stv/replace.png" />
     <entry file="file://$PROJECT_DIR$/stv/stv_2.0_2.png" />
     <entry file="file://$PROJECT_DIR$/stv/属性替换.png" />
     <entry file="file://$PROJECT_DIR$/stv/文字渐变色.png" />
@@ -806,6 +811,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Dart/dart_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
