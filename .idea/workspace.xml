@@ -47,13 +47,14 @@
     <session id="-1436211232">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="png" value="13" />
+          <entry key="jpg" value="14" />
+          <entry key="png" value="18" />
           <entry key="svg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="13" />
+          <entry key="Image" value="32" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
@@ -65,52 +66,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-启动运行项目.png">
+        <entry file="file://$PROJECT_DIR$/其它/u=3680923293,1495896930&amp;fm=26&amp;gp=0.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-widget1.png">
+        <entry file="file://$PROJECT_DIR$/其它/七牛图床图没了.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter示例1.png">
+        <entry file="file://$PROJECT_DIR$/其它/跑步脚部姿势.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-container结构.png">
+        <entry file="file://$PROJECT_DIR$/其它/download-1.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dart/dart_logo.png">
+        <entry file="file://$PROJECT_DIR$/其它/download.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo2.png">
+        <entry file="file://$PROJECT_DIR$/封面/MNIST封面.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-widget11.png">
+        <entry file="file://$PROJECT_DIR$/其它/u=2051975322,3785503293&amp;fm=26&amp;gp=0.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/flutter-架构.png">
+        <entry file="file://$PROJECT_DIR$/其它/u=2111584605,3825924903&amp;fm=26&amp;gp=0.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-配置项目.png">
+        <entry file="file://$PROJECT_DIR$/其它/u=2294437324,1126471106&amp;fm=26&amp;gp=0.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-确定.png">
+        <entry file="file://$PROJECT_DIR$/其它/u=3268277154,2163622391&amp;fm=26&amp;gp=0.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -147,6 +148,11 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="AndroidStudio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="Dart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -173,6 +179,26 @@
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="其它文件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="封面" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="数学计算" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="文件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="暴漫" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -616,7 +642,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-114" y="1073" width="1004" height="818" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3014553" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -709,18 +734,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stv/stv_2.0_2.png" />
-    <entry file="file://$PROJECT_DIR$/stv/属性替换.png" />
-    <entry file="file://$PROJECT_DIR$/stv/文字渐变色.png" />
-    <entry file="file://$PROJECT_DIR$/stv/旋转.png" />
-    <entry file="file://$PROJECT_DIR$/stv/着色.png" />
-    <entry file="file://$PROJECT_DIR$/stv/TB1JEPSrH9YBuNjy0FgXXcxcXXa-1195-622.gif" />
-    <entry file="file://$PROJECT_DIR$/stv/集合.gif" />
-    <entry file="file://$PROJECT_DIR$/stv/按压变色.gif" />
-    <entry file="file://$PROJECT_DIR$/stv/SuperTextView_cover0.png" />
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.13.png" />
-    <entry file="file://$PROJECT_DIR$/stv/Opportunity.png" />
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png" />
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.42.png" />
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.51.33.png" />
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.22.png" />
@@ -738,13 +751,7 @@
     <entry file="file://$PROJECT_DIR$/Flutter/hot-reload.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/Flutterdemo1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/flutter-跨平台.png">
@@ -792,9 +799,6 @@
     <entry file="file://$PROJECT_DIR$/Flutter/flutter-架构.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-启动运行项目.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/Flutter-widget11.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -814,6 +818,51 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/md图片加载失败.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-启动运行项目.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=343452579,826911251&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=2051975322,3785503293&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=2111584605,3825924903&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=2294437324,1126471106&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=3268277154,2163622391&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/u=3680923293,1495896930&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/七牛图床图没了.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/跑步脚部姿势.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/download-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其它/download.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/封面/MNIST封面.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
