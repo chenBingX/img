@@ -128,8 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="23" />
+    <option name="x" value="362" />
+    <option name="y" value="124" />
     <option name="width" value="1004" />
     <option name="height" value="818" />
   </component>
@@ -163,13 +163,14 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/机器学习相关" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Flutter" />
       <recent name="$PROJECT_DIR$/stv" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
       <recent name="$PROJECT_DIR$/其它" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/机器学习相关" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -591,7 +592,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="23" width="1004" height="818" extended-state="0" />
+    <frame x="362" y="124" width="1004" height="818" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3014553" />
       <window_info id="Structure" order="1" weight="0.25" />
