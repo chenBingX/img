@@ -47,6 +47,7 @@
     <session id="-1436211232">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gif" value="1" />
           <entry key="jpg" value="22" />
           <entry key="png" value="23" />
           <entry key="svg" value="1" />
@@ -54,7 +55,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="45" />
+          <entry key="Image" value="46" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
@@ -71,11 +72,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/其它/跑步脚部姿势.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/其它/download-1.jpg">
           <provider selected="true" editor-type-id="images" />
@@ -106,8 +102,13 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/其它/u=343452579,826911251&amp;fm=26&amp;gp=0.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo11.gif">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -580,7 +581,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.22.png" />
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.46.23.png" />
     <entry file="file://$PROJECT_DIR$/stv/渐变色.png" />
     <entry file="file://$PROJECT_DIR$/stv/多Adjuster演示.gif" />
@@ -711,6 +711,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其它/u=343452579,826911251&amp;fm=26&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo11.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
