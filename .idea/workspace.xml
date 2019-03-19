@@ -142,6 +142,16 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="Flutter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="其它" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="img" type="b2602c69:ProjectViewProjectNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="其它文件" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -153,12 +163,12 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/stv" />
-      <recent name="$PROJECT_DIR$/机器学习相关" />
-      <recent name="$PROJECT_DIR$/其它" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/机器学习相关" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/其它" />
+      <recent name="$PROJECT_DIR$/stv" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
     </key>
   </component>
@@ -1318,7 +1328,7 @@
   <component name="ToolWindowManager">
     <frame x="-28" y="1148" width="1001" height="768" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4450262" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4450262" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Image Layers" order="3" />
@@ -1333,7 +1343,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.31598514" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30804953" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30804953" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
