@@ -6,7 +6,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload" />
+    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,50 +22,27 @@
     <session id="-852413840">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gif" value="1" />
-          <entry key="png" value="54" />
+          <entry key="png" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="55" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1436211232">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gif" value="11" />
-          <entry key="png" value="36" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="47" />
+          <entry key="Image" value="63" />
         </counts>
       </usages-collector>
     </session>
@@ -72,54 +51,54 @@
     <favorites_list name="img" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo6.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/FlutterIOS安装.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo5.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/State生命周期.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo4.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/State生命周期2.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/httpdemo1.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/Row-axis.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/混合开发demo.gif">
+        <entry file="file://$PROJECT_DIR$/Flutter/row和column例子1.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/AnimDemo1.gif">
+        <entry file="file://$PROJECT_DIR$/Flutter/Column-axis.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/AlertDialog.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/Text下面无线.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/arcfalsestroke.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/Text下面有线.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flutter/arctruestroke.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/listdemo.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Flutter/shadow.png">
+        <entry file="file://$PROJECT_DIR$/Flutter/Flutter通信1.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -136,17 +115,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="23" />
-    <option name="width" value="830" />
-    <option name="height" value="731" />
+    <option name="x" value="59" />
+    <option name="y" value="47" />
+    <option name="width" value="968" />
+    <option name="height" value="927" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,28 +136,18 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="img" type="b2602c69:ProjectViewProjectNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="Flutter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="其它" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="img" type="b2602c69:ProjectViewProjectNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="其它文件" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,15 +155,159 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Flutter" />
-      <recent name="$PROJECT_DIR$/机器学习相关" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/其它" />
       <recent name="$PROJECT_DIR$/stv" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
+      <recent name="$PROJECT_DIR$/其它" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/机器学习相关" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.DS_Store</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/AlertDialog.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/Flutter快速上手指南封面2.JPG</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/SimpleDialog.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/arc0点.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/arcfalsefill.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/arcfalsestroke.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/arctruefill.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/arctruestroke.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/canvas坐标系.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/circlefill.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/circlestroke.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/customdialog.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/custompainter1.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/drectfill.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/drectstroke.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/dst.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/dstcolor.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/flutter-vsync.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/ovalfill.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/ovalstroke.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/path.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/pathclose.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/pathfill.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/point圆.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/point方.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/point线段.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/rectfill.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/rectstroke.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/rrect.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/shadow.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/shadowwith.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Flutter/src.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/其它/冒险者你好.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/其它/稿定设计导出-20190319-154758.png</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -499,10 +612,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="23" width="830" height="731" extended-state="0" />
+    <frame x="59" y="47" width="968" height="927" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.50382656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26710817" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Image Layers" order="3" />
@@ -517,7 +630,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.31598514" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4974359" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33422104" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
@@ -533,40 +646,7 @@
       <window_info anchor="right" id="Flutter Inspector" order="9" />
       <window_info anchor="right" id="Flutter Outline" order="10" />
       <window_info anchor="right" id="GfmBrowser" order="11" />
-      <window_info anchor="right" id="Color Manager" order="12" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5644769" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Captures" order="5" weight="0.25" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50243306" side_tool="true" weight="0.38425198" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32831737" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4975669" visible="true" weight="0.30179444" />
-      <window_info anchor="bottom" id="Mirror" order="11" />
-      <window_info anchor="bottom" id="Statistic" order="12" />
-      <window_info anchor="bottom" id="CheckStyle" order="13" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="PlantUML" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Artist Preview" order="5" weight="0.3299389" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Color Manager" order="8" weight="0.3299389" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -595,6 +675,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/其它/u=3268277154,2163622391&amp;fm=26&amp;gp=0.jpg" />
+    <entry file="file://$PROJECT_DIR$/其它/u=3680923293,1495896930&amp;fm=26&amp;gp=0.jpg" />
+    <entry file="file://$PROJECT_DIR$/stv/replace.png" />
+    <entry file="file://$PROJECT_DIR$/stv/stv_2.0_2.png" />
+    <entry file="file://$PROJECT_DIR$/stv/属性替换.png" />
+    <entry file="file://$PROJECT_DIR$/stv/文字渐变色.png" />
+    <entry file="file://$PROJECT_DIR$/stv/旋转.png" />
+    <entry file="file://$PROJECT_DIR$/stv/着色.png" />
+    <entry file="file://$PROJECT_DIR$/stv/TB1JEPSrH9YBuNjy0FgXXcxcXXa-1195-622.gif" />
+    <entry file="file://$PROJECT_DIR$/stv/集合.gif" />
+    <entry file="file://$PROJECT_DIR$/stv/按压变色.gif" />
     <entry file="file://$PROJECT_DIR$/stv/SuperTextView_cover0.png" />
     <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.13.png" />
     <entry file="file://$PROJECT_DIR$/stv/Opportunity.png" />
@@ -616,13 +707,22 @@
     <entry file="file://$PROJECT_DIR$/Flutter/hot-reload.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/Flutterdemo1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/flutter-跨平台.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/flutter-ui多.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-plugin.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/flutter-架构.png">
@@ -673,49 +773,7 @@
     <entry file="file://$PROJECT_DIR$/Flutter/listdemo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-plugin.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/httpdemo1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/混合开发demo.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/AnimDemo1.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/AlertDialog.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/arcfalsestroke.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/arctruestroke.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/shadow.png">
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter通信1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
