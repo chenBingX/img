@@ -1,0 +1,29 @@
+{
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1CLLMTxTpK1RjSZFKXXa2wXXa-748-2454.png",
+  "actions": [
+    {
+      "type": "gotoPage",
+      "range": {
+        "l": 645,
+        "t": 21,
+        "r": 736,
+        "b": 21
+      },
+      "fields": {
+        "url": "page://an_xin_piao_rule"
+      }
+    },
+    {
+      "type": "finish",
+      "range": {
+        "l": 93,
+        "t": 2355,
+        "r": 656,
+        "b": 2439
+      },
+      "fields": {
+        "url": "page://demo_3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1oh6KTpzqK1RjSZFoXXbfcXXa-747-5062.png",
+  "actions": [
+    {
+      "type": "gotoPage",
+      "range": {
+        "l": 30,
+        "t": 330,
+        "r": 737,
+        "b": 330
+      },
+      "fields": {
+        "url": "page://demo_3",
+        "exploreUrl": ""
+      },
+      "explore": true,
+      "exploreDepth": 1
+    },
+    {
+      "type": "test",
+      "range": {
+        "l": 21,
+        "t": 1241,
+        "r": 737,
+        "b": 1311
+      },
+      "fields": {
+        "url": "被点击了！"
+      }
+    }
+  ]
+}
