@@ -1,0 +1,46 @@
+{
+  "viewUrl": "https://gw.alicdn.com/tfs/TB10ouKTxjaK1RjSZFAXXbdLFXa-1125-2436.png",
+  "actions": [
+    {
+      "type": "gotoPage",
+      "range": {
+        "l": 360,
+        "t": 906,
+        "r": 755,
+        "b": 960
+      },
+      "fields": {
+        "url": "page://demo_2",
+        "exploreUrl": "https://raw.githubusercontent.com/chenBingX/img/master/其它文件/page2"
+      },
+      "explore":true
+    },
+    {
+      "type": "test",
+      "range": {
+        "l": 357,
+        "t": 1571,
+        "r": 772,
+        "b": 1625
+      }
+    },
+    {
+      "type": "finish",
+      "range": {
+        "l": 0,
+        "t": 152,
+        "r": 141,
+        "b": 264
+      }
+    },
+    {
+      "type": "close",
+      "range": {
+        "l": 889,
+        "t": 153,
+        "r": 1000,
+        "b": 253
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "viewUrl": "https://gw.alicdn.com/tfs/TB1CLLMTxTpK1RjSZFKXXa2wXXa-748-2454.png",
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1dS6_TyrpK1RjSZFhXXXSdXXa-750-4820.png",
   "actions": [
     {
       "type": "gotoPage",
@@ -10,20 +10,10 @@
         "b": 65
       },
       "fields": {
-        "url": "page://an_xin_piao_rule"
-      }
-    },
-    {
-      "type": "finish",
-      "range": {
-        "l": 93,
-        "t": 2355,
-        "r": 656,
-        "b": 2439
+        "url": "page://an_xin_piao_rule",
+        "exploreUrl": "https://raw.githubusercontent.com/chenBingX/img/master/其它文件/page4"
       },
-      "fields": {
-        "url": "page://demo_3"
-      }
+      "explore":true
     }
   ]
 }
