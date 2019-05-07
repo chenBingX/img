@@ -13,7 +13,7 @@
         "url": "page://demo_2",
         "exploreUrl": "https://raw.githubusercontent.com/chenBingX/img/master/其它文件/page2"
       },
-      "explore":true
+      "explore": true
     },
     {
       "type": "test",
@@ -40,6 +40,17 @@
         "t": 153,
         "r": 1000,
         "b": 253
+      }
+    }
+  ],
+  "children": [
+    {
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1BqJTUSrqK1RjSZK9XXXyypXa-374-94.png",
+      "range": {
+        "l": 77,
+        "t": 973,
+        "r": 564,
+        "b": 1092
       }
     }
   ]
