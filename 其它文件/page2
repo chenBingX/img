@@ -1,5 +1,5 @@
 {
-  "viewUrl": "https://gw.alicdn.com/tfs/TB1oh6KTpzqK1RjSZFoXXbfcXXa-747-5062.png",
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1yF9ZUNTpK1RjSZR0XXbEwXXa-750-5069.png",
   "actions": [
     {
       "type": "gotoPage",
@@ -27,6 +27,107 @@
       "fields": {
         "url": "被点击了！"
       }
+    },
+    {
+      "type": "stateButton",
+      "range": {
+        "l": 23,
+        "t": 3302,
+        "r": 193,
+        "b": 3360
+      },
+      "fields": {
+        "state": "1",
+        "groupType": "single",
+        "0": "stateButton_1_1_0",
+        "1": "stateButton_1_1_1",
+        "linkedWidget": "child_1_1"
+      },
+      "group": "1"
+    },
+    {
+      "type": "stateButton",
+      "range": {
+        "l": 201,
+        "t": 3302,
+        "r": 371,
+        "b": 3360
+      },
+      "fields": {
+        "state": "0",
+        "groupType": "single",
+        "0": "stateButton_1_2_0",
+        "1": "stateButton_1_2_1",
+        "linkedWidget": "child_1_2"
+      },
+      "group": "1"
+    }
+  ],
+  "children": [
+    {
+      "id": "stateButton_1_1_0",
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1fYW2UHvpK1RjSZFqXXcXUVXa-168-54.png",
+      "range": {
+        "l": 23,
+        "t": 3302,
+        "r": 193,
+        "b": 3360
+      },
+      "visible": 1
+    },
+    {
+      "id": "stateButton_1_1_1",
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1lOe3UQzoK1RjSZFlXXai4VXa-168-54.png",
+      "range": {
+        "l": 23,
+        "t": 3302,
+        "r": 193,
+        "b": 3360
+      }
+    },
+    {
+      "id": "stateButton_1_2_0",
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1L7CRUSrqK1RjSZK9XXXyypXa-168-54.png",
+      "range": {
+        "l": 201,
+        "t": 3302,
+        "r": 371,
+        "b": 3360
+      }
+    },
+    {
+      "id": "stateButton_1_2_1",
+      "viewUrl": "https://gw.alicdn.com/tfs/TB17hK4USzqK1RjSZFpXXakSXXa-168-54.png",
+      "range": {
+        "l": 201,
+        "t": 3302,
+        "r": 371,
+        "b": 3360
+      },
+      "visible": 1
+    },
+    {
+      "id": "child_1_1",
+      "viewUrl": "https://gw.alicdn.com/tfs/TB18Z91UNTpK1RjSZFKXXa2wXXa-702-614.png",
+      "range": {
+        "l": 23,
+        "t": 3388,
+        "r": 727,
+        "b": 4004
+      },
+      "group": "1"
+    },
+    {
+      "id": "child_1_2",
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1dmHlUOLaK1RjSZFxXXamPFXa-702-612.png",
+      "range": {
+        "l": 23,
+        "t": 3388,
+        "r": 727,
+        "b": 4004
+      },
+      "group": "1",
+      "visible": 1
     }
   ]
 }
