@@ -1,0 +1,25 @@
+{
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1LucCUSzqK1RjSZPxXXc4tVXa-750-1624.png",
+  "children": [
+    {
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1NJMMUHrpK1RjSZTEXXcWAVXa-654-2190.png",
+      "range": {
+        "l": 47,
+        "t": 121,
+        "r": 703,
+        "b": 1376
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "close",
+      "range": {
+        "l": 310,
+        "t": 1435,
+        "r": 443,
+        "b": 1553
+      }
+    }
+  ]
+}
