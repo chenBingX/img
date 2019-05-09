@@ -38,6 +38,7 @@
         "r": 750,
         "b": 3360
       },
+      "horizontal": true,
       "actions": [
         {
           "type": "stateButton",
