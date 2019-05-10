@@ -1,25 +1,28 @@
 {
-  "viewUrl": "https://gw.alicdn.com/tfs/TB1LSJkVjDpK1RjSZFrXXa78VXa-750-1334.png",
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1GlxtVlLoK1RjSZFuXXXn0XXa-750-1334.png",
   "children": [
     {
-      "viewUrl": "https://gw.alicdn.com/tfs/TB1RiVSVhnaK1RjSZFBXXcW7VXa-652-2169.png",
-      "range": {
-        "l": 48,
-        "t": 93,
-        "r": 701,
-        "b": 1115
-      }
-    }
-  ],
-  "actions": [
-    {
-      "type": "close",
-      "range": {
-        "l": 315,
-        "t": 1179,
-        "r": 430,
-        "b": 1294
-      }
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1LSJkVjDpK1RjSZFrXXa78VXa-750-1334.png",
+      "children": {
+        "viewUrl": "https://gw.alicdn.com/tfs/TB1RiVSVhnaK1RjSZFBXXcW7VXa-652-2169.png",
+        "range": {
+          "l": 48,
+          "t": 93,
+          "r": 701,
+          "b": 1115
+        }
+      },
+      "actions": [
+        {
+          "type": "close",
+          "range": {
+            "l": 315,
+            "t": 1179,
+            "r": 430,
+            "b": 1294
+          }
+        }
+      ]
     }
   ]
 }
