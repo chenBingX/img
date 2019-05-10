@@ -38,10 +38,10 @@
     {
       "type": "showChild",
       "range": {
-        "l": 315,
-        "t": 1179,
-        "r": 430,
-        "b": 1294
+        "l": 0,
+        "t": 936,
+        "r": 750,
+        "b": 1109
       },
       "field": {
         "linkedWidget": "fangxingfeidialog"
