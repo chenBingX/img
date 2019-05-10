@@ -44,7 +44,8 @@
         "b": 1109
       },
       "field": {
-        "-": "-",
+        "-1": "-1",
+        "-2": "-1",
         "linkedWidget": "fangxingfeidialog"
       }
     }
