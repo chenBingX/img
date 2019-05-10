@@ -2,6 +2,7 @@
   "viewUrl": "https://gw.alicdn.com/tfs/TB1GlxtVlLoK1RjSZFuXXXn0XXa-750-1334.png",
   "children": [
     {
+      "id": "fangxingfeidialog",
       "viewUrl": "https://gw.alicdn.com/tfs/TB1LSJkVjDpK1RjSZFrXXa78VXa-750-1334.png",
       "children": [
         {
@@ -30,6 +31,20 @@
         "t": 0,
         "r": 750,
         "b": 1334
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "showChild",
+      "range": {
+        "l": 315,
+        "t": 1179,
+        "r": 430,
+        "b": 1294
+      },
+      "field": {
+        "linkedWidget": "fangxingfeidialog"
       }
     }
   ]
