@@ -3,12 +3,24 @@
   "actions": [
     {
       "type": "gotoPage",
-      "range": {
-        "l": 645,
-        "t": 21,
-        "r": 736,
-        "b": 65
-      },
+      "path": [
+        {
+          "x": 645,
+          "y": 21
+        },
+        {
+          "x": 736,
+          "y": 21
+        },
+        {
+          "x": 736,
+          "y": 65
+        },
+        {
+          "x": 645,
+          "y": 65
+        }
+      ],
       "fields": {
         "url": "page://an_xin_piao_rule",
         "exploreUrl": "https://raw.githubusercontent.com/chenBingX/img/master/其它文件/page4"
