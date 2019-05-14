@@ -1,5 +1,5 @@
 {
-  "viewUrl": "https://gw.alicdn.com/tfs/TB1dS6_TyrpK1RjSZFhXXXSdXXa-750-4820.png",
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1CLLMTxTpK1RjSZFKXXa2wXXa-748-2454.png",
   "actions": [
     {
       "type": "gotoPage",
@@ -22,10 +22,10 @@
         }
       ],
       "fields": {
+        "explore": true,
         "url": "page://an_xin_piao_rule",
         "exploreUrl": "https://raw.githubusercontent.com/chenBingX/img/master/其它文件/page4"
-      },
-      "explore":true
+      }
     }
   ]
 }
