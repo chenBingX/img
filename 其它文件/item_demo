@@ -1,0 +1,90 @@
+{
+  "views": [
+    "https://gw.alicdn.com/tfs/TB1CM2NVMHqK1RjSZFEXXcGMXXa-1080-1920.jpg"
+  ],
+  "actions": [
+    {
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 621,
+          "y": 618
+        },
+        {
+          "x": 675,
+          "y": 616
+        },
+        {
+          "x": 680,
+          "y": 653
+        },
+        {
+          "x": 629,
+          "y": 662
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://detail.tmall.com/item.htm?id=579266947302&ali_refid=a3_430125_1006:1109736523:N:%E6%8A%B1%E6%9E%95:4609b5f10eb00a8ed4a9f7247e67cd60&ali_trackid=1_4609b5f10eb00a8ed4a9f7247e67cd60&spm=0.0.0.0"
+      }
+    },
+    {
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 1006,
+          "y": 625
+        },
+        {
+          "x": 1029,
+          "y": 628
+        },
+        {
+          "x": 1031,
+          "y": 695
+        },
+        {
+          "x": 993,
+          "y": 698
+        },
+        {
+          "x": 972,
+          "y": 681
+        },
+        {
+          "x": 917,
+          "y": 655
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://item.taobao.com/item.htm?id=572712547999&ali_refid=a3_430125_1006:1122685562:N:%E6%A4%85%E5%AD%90:b18dbcde7e474448268dda1e704acae0&ali_trackid=1_b18dbcde7e474448268dda1e704acae0&spm=0.0.0.0"
+      }
+    },
+    {
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 553,
+          "y": 455
+        },
+        {
+          "x": 752,
+          "y": 511
+        },
+        {
+          "x": 751,
+          "y": 592
+        },
+        {
+          "x": 554,
+          "y": 594
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://item.taobao.com/item.htm?id=566828026099&abtest=30&rn=50f049dffa99c5927f8245f146722361&sid=192afc281719b8df96c3d0c71a84dd36"
+      }
+    }
+  ]
+}
