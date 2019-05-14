@@ -1,7 +1,7 @@
 {
-  "views": [
-    "https://gw.alicdn.com/tfs/TB1CM2NVMHqK1RjSZFEXXcGMXXa-1080-1920.jpg"
-  ],
+  "viewUrl":
+  "https://gw.alicdn.com/tfs/TB1CM2NVMHqK1RjSZFEXXcGMXXa-1080-1920.jpg",
+
   "actions": [
     {
       "type": "gotoPage",
