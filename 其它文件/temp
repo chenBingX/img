@@ -12,7 +12,7 @@
         "b": 505
       },
       "fields": {
-        "explore": true,
+        "explore": "true",
         "exploreDepth": 2,
         "url": "page://demo_3",
         "exploreUrl": "https://raw.githubusercontent.com/chenBingX/img/master/其它文件/page3"
