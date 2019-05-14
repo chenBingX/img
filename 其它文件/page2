@@ -3,7 +3,7 @@
   "actions": [
     {
       "type": "gotoPage",
-      "path": [
+      "region": [
         {
           "x": 30,
           "y": 330
@@ -30,7 +30,7 @@
     },
     {
       "type": "test",
-      "path": [
+      "region": [
         {
           "x": 21,
           "y": 1241
@@ -66,7 +66,7 @@
       "actions": [
         {
           "type": "stateButton",
-          "path": [
+          "region": [
             {
               "x": 23,
               "y": 3302
@@ -95,7 +95,7 @@
         },
         {
           "type": "stateButton",
-          "path": [
+          "region": [
             {
               "x": 201,
               "y": 3302
@@ -124,7 +124,7 @@
         },
         {
           "type": "stateButton",
-          "path": [
+          "region": [
             {
               "x": 379,
               "y": 3302
@@ -153,7 +153,7 @@
         },
         {
           "type": "stateButton",
-          "path": [
+          "region": [
             {
               "x": 557,
               "y": 3302
@@ -182,7 +182,7 @@
         },
         {
           "type": "stateButton",
-          "path": [
+          "region": [
             {
               "x": 735,
               "y": 3302

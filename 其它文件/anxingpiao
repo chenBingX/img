@@ -18,7 +18,7 @@
       "actions": [
         {
           "type": "close",
-          "path": [
+          "region": [
             {
               "x": 315,
               "y": 1179
@@ -50,7 +50,7 @@
   "actions": [
     {
       "type": "showChild",
-      "path": [
+      "region": [
         {
           "x": 0,
           "y": 936

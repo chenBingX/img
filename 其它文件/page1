@@ -3,7 +3,7 @@
   "actions": [
     {
       "type": "gotoPage",
-      "path": [
+      "region": [
         {
           "x": 360,
           "y": 906
@@ -29,7 +29,7 @@
     },
     {
       "type": "test",
-      "path": [
+      "region": [
         {
           "x": 357,
           "y": 1571
@@ -50,7 +50,7 @@
     },
     {
       "type": "finish",
-      "path": [
+      "region": [
         {
           "x": 0,
           "y": 152
@@ -71,7 +71,7 @@
     },
     {
       "type": "close",
-      "path": [
+      "region": [
         {
           "x": 889,
           "y": 153

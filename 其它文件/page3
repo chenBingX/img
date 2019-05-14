@@ -3,7 +3,7 @@
   "actions": [
     {
       "type": "gotoPage",
-      "path": [
+      "region": [
         {
           "x": 645,
           "y": 21
