@@ -92,7 +92,7 @@
   ,
     {
       "id": "浴缸：点击显示或隐藏一个人",
-      "type": "stateButton",
+      "type": "changeChildState",
       "region": [
         {
           "x": 307,
