@@ -49,7 +49,7 @@
   ],
   "actions": [
     {
-      "type": "showChild",
+      "type": "changeChildState",
       "region": [
         {
           "x": 0,
@@ -69,6 +69,7 @@
         }
       ],
       "fields": {
+        "state": "0",
         "linkedWidget": "fangxingfeidialog"
       }
     }

@@ -4,6 +4,7 @@
 
   "actions": [
     {
+      "id": "跳转到抱枕购买页",
       "type": "gotoPage",
       "region": [
         {
@@ -29,6 +30,7 @@
       }
     },
     {
+      "id": "跳转到椅子购买页",
       "type": "gotoPage",
       "region": [
         {
@@ -62,6 +64,7 @@
       }
     },
     {
+      "id": "跳转到壁画购买页",
       "type": "gotoPage",
       "region": [
         {
@@ -85,6 +88,74 @@
         "pageUrl": "page://web",
         "url": "https://item.taobao.com/item.htm?id=566828026099&abtest=30&rn=50f049dffa99c5927f8245f146722361&sid=192afc281719b8df96c3d0c71a84dd36"
       }
+    }
+  ,
+    {
+      "id": "浴缸：点击显示或隐藏一个人",
+      "type": "stateButton",
+      "region": [
+        {
+          "x": 307,
+          "y": 1312
+        },
+        {
+          "x": 360,
+          "y": 1367
+        },
+        {
+          "x": 338,
+          "y": 1410
+        },
+        {
+          "x": 250,
+          "y": 1490
+        },
+        {
+          "x": 283,
+          "y": 1528
+        },
+        {
+          "x": 181,
+          "y": 1559
+        },
+        {
+          "x": 103,
+          "y": 1561
+        },
+        {
+          "x": 35,
+          "y": 1540
+        },
+        {
+          "x": 35,
+          "y": 1371
+        },
+        {
+          "x": 89,
+          "y": 1339
+        },
+        {
+          "x": 176,
+          "y": 1300
+        }
+      ],
+      "fields": {
+        "state": "1",
+        "linkedWidget": "test_human"
+      }
+    }
+  ],
+  "children": [
+    {
+      "id": "test_human",
+      "viewUrl": "https://gw.alicdn.com/tfs/TB1imMDVQPoK1RjSZKbXXX1IXXa-268-283.png",
+      "range": {
+        "l": 73,
+        "t": 1240,
+        "r": 310,
+        "b": 1483
+      },
+      "visible": 1
     }
   ]
 }
