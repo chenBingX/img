@@ -146,9 +146,9 @@
       "id": "test_human",
       "viewUrl": "https://gw.alicdn.com/tfs/TB1imMDVQPoK1RjSZKbXXX1IXXa-268-283.png",
       "range": {
-        "l": 73,
+        "l": 60,
         "t": 1240,
-        "r": 310,
+        "r": 297,
         "b": 1483
       },
       "visible": 1,
@@ -158,19 +158,19 @@
           "type": "playAnim",
           "region": [
             {
-              "x": 73,
+              "x": 60,
               "y": 1240
             },
             {
-              "x": 310,
+              "x": 297,
               "y": 1240
             },
             {
-              "x": 310,
+              "x": 297,
               "y": 1483
             },
             {
-              "x": 73,
+              "x": 60,
               "y": 1483
             }
           ],
