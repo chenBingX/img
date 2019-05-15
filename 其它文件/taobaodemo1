@@ -48,18 +48,18 @@
         "l": 412,
         "t": 80,
         "r": 615,
-        "b": 274
+        "b": 276
       },
       "clip": true,
-      "translateY": -194.0,
+      "translateY": -196.0,
       "anims": [
         {
           "id": "恒大球球自由落体动画",
           "type": "translate",
-          "duration": 2000,
+          "duration": 800,
           "fromX": 0.0,
           "toX": 0.0,
-          "fromY": -194.0,
+          "fromY": -196.0,
           "toY": 0.0,
           "recover": false,
           "interpolator": "BounceInterpolator"
