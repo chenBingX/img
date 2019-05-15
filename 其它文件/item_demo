@@ -185,9 +185,9 @@
           "id": "test_translate",
           "type": "translate",
           "duration": 2000,
-          "formX": 0.0,
+          "fromX": 0.0,
           "toX": 0.0,
-          "formY": 0.0,
+          "fromY": 0.0,
           "toY": 243.0,
           "recover": true
         }

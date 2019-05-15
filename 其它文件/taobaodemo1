@@ -57,9 +57,9 @@
           "id": "恒大球球自由落体动画",
           "type": "translate",
           "duration": 2000,
-          "formX": 0.0,
+          "fromX": 0.0,
           "toX": 0.0,
-          "formY": -194.0,
+          "fromY": -194.0,
           "toY": 0.0,
           "recover": false,
           "interpolator": "BounceInterpolator"
