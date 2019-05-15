@@ -1,0 +1,189 @@
+{
+  "viewUrl": "",
+  "actions": [
+    {
+      "id": "眼镜",
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 336,
+          "y": 131
+        },
+        {
+          "x": 421,
+          "y": 96
+        },
+        {
+          "x": 425,
+          "y": 125
+        },
+        {
+          "x": 393,
+          "y": 147
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://detail.m.tmall.com/item.htm?id=589832302127&abtest=19&rn=0148edeb16c22ae2dfff6bb64cb32a72&sid=192afc281719b8df96c3d0c71a84dd36"
+      }
+    },
+    {
+      "id": "衣服",
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 366,
+          "y": 227
+        },
+        {
+          "x": 386,
+          "y": 206
+        },
+        {
+          "x": 416,
+          "y": 191
+        },
+        {
+          "x": 436,
+          "y": 214
+        },
+        {
+          "x": 445,
+          "y": 250
+        },
+        {
+          "x": 443,
+          "y": 284
+        },
+        {
+          "x": 413,
+          "y": 284
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://detail.m.tmall.com/item.htm?id=586421632552&abtest=13&rn=d784a03bf2858cd8b80946a97d15ece7&sid=192afc281719b8df96c3d0c71a84dd36"
+      }
+    },
+    {
+      "id": "头巾",
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 630,
+          "y": 87
+        },
+        {
+          "x": 670,
+          "y": 103
+        },
+        {
+          "x": 710,
+          "y": 134
+        },
+        {
+          "x": 703,
+          "y": 148
+        },
+        {
+          "x": 649,
+          "y": 131
+        },
+        {
+          "x": 622,
+          "y": 104
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://item.taobao.com/item.htm?id=587143051360&abtest=51&rn=26997f8575a8147a7d3e7d804297467b&sid=192afc281719b8df96c3d0c71a84dd36"
+      }
+    },
+    {
+      "id": "裙子",
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 674,
+          "y": 109
+        },
+        {
+          "x": 705,
+          "y": 209
+        },
+        {
+          "x": 691,
+          "y": 295
+        },
+        {
+          "x": 665,
+          "y": 295
+        },
+        {
+          "x": 620,
+          "y": 270
+        },
+        {
+          "x": 616,
+          "y": 238
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://detail.m.tmall.com/item.htm?id=588736840991&abtest=2&rn=ac61323325284ef42285cfe04d7bc8df&sid=192afc281719b8df96c3d0c71a84dd36&sku_properties=1627207:3266760"
+      }
+    },
+    {
+      "id": "天猫",
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 22,
+          "y": 314
+        },
+        {
+          "x": 138,
+          "y": 314
+        },
+        {
+          "x": 138,
+          "y": 442
+        },
+        {
+          "x": 22,
+          "y": 442
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://pages.tmall.com/wow/rais/act/tmall-home?utparam=%7B%22ranger_buckets_native%22%3A%225555_3151%22%7D&spm=a215s.7406091.icons.1&scm=2019.1.2.1000#/main"
+      }
+    },
+    {
+      "id": "飞猪旅行",
+      "type": "gotoPage",
+      "region": [
+        {
+          "x": 163,
+          "y": 451
+        },
+        {
+          "x": 279,
+          "y": 451
+        },
+        {
+          "x": 279,
+          "y": 579
+        },
+        {
+          "x": 163,
+          "y": 579
+        }
+      ],
+      "fields": {
+        "pageUrl": "page://web",
+        "url": "https://h5.m.taobao.com/trip/home/index.html?utparam=%7B%22ranger_buckets_native%22%3A%225555_3151%22%7D&spm=a215s.7406091.icons.7&scm=2019.1.2.1008&_wx_tpl=http%3A%2F%2Fh5.m.taobao.com%2Fapp%2Ftriprxhome%2Fpages%2Fhome%2Findex.weex.js&wx_navbar_hidden=true&_projVer=0.3.3&ttid=12mtb0000155"
+      }
+    }
+  ]
+}
