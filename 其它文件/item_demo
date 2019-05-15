@@ -152,6 +152,7 @@
         "b": 1483
       },
       "visible": 1,
+      "clip": true,
       "actions": [
         {
           "type": "playAnim",
