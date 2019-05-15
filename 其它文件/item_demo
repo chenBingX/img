@@ -1,7 +1,5 @@
 {
-  "viewUrl":
-  "https://gw.alicdn.com/tfs/TB1CM2NVMHqK1RjSZFEXXcGMXXa-1080-1920.jpg",
-
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1CM2NVMHqK1RjSZFEXXcGMXXa-1080-1920.jpg",
   "actions": [
     {
       "id": "跳转到抱枕购买页",
@@ -88,8 +86,7 @@
         "pageUrl": "page://web",
         "url": "https://item.taobao.com/item.htm?id=566828026099&abtest=30&rn=50f049dffa99c5927f8245f146722361&sid=192afc281719b8df96c3d0c71a84dd36"
       }
-    }
-  ,
+    },
     {
       "id": "浴缸：点击显示或隐藏一个人",
       "type": "changeChildState",
@@ -140,7 +137,6 @@
         }
       ],
       "fields": {
-        "state": "1",
         "linkedWidget": "test_human"
       }
     }
@@ -155,7 +151,45 @@
         "r": 310,
         "b": 1483
       },
-      "visible": 1
+      "visible": 1,
+      "actions": [
+        {
+          "type": "playAnim",
+          "region": [
+            {
+              "x": 73,
+              "y": 1240
+            },
+            {
+              "x": 310,
+              "y": 1240
+            },
+            {
+              "x": 310,
+              "y": 1483
+            },
+            {
+              "x": 73,
+              "y": 1483
+            }
+          ],
+          "fields": {
+            "linkedWidget": "test_human",
+            "linkedAnim": "test_translate"
+          }
+        }
+      ],
+      "anims": [
+        {
+          "id": "test_translate",
+          "type": "translate",
+          "duration": 2000,
+          "formX": 0.0,
+          "toX": 0.0,
+          "formY": 0.0,
+          "toY": 0.0
+        }
+      ]
     }
   ]
 }
