@@ -1,5 +1,15 @@
 {
   "viewUrl": "https://gw.alicdn.com/tfs/TB1GlxtVlLoK1RjSZFuXXXn0XXa-750-1334.png",
+  "design": {
+    "w": 720,
+    "h": 1200
+  },
+  "range": {
+    "l": 48,
+    "t": 93,
+    "r": 701,
+    "b": 1115
+  },
   "children": [
     {
       "id": "fangxingfeidialog",
