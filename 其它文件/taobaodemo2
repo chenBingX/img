@@ -1,5 +1,9 @@
 {
   "viewUrl": "https://gw.alicdn.com/tfs/TB1JGeSi13tHKVjSZSgXXX4QFXa-720-1200.png",
+  "design": {
+    "w": 720,
+    "h": 1200
+  },
   "actions": [
     {
       "id": "眼镜",
