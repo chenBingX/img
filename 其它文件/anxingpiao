@@ -45,7 +45,6 @@
               "x": 315,
               "y": 1230
             }
-
           ]
         }
       ],
@@ -54,6 +53,9 @@
         "t": 93,
         "r": 701,
         "b": 1115
+      },
+      "fields": {
+        "linkedWidget": "fangxingfeidialog"
       }
     }
   ],
