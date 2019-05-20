@@ -1,4 +1,13 @@
 {
-  "viewUrl": "https://gw.alicdn.com/tfs/TB1U6zKXq1s3KVjSZFAXXX_ZXXa-541-777.png"
-
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1U6zKXq1s3KVjSZFAXXX_ZXXa-541-777.png",
+  "design": {
+    "w": 720,
+    "h": 1200
+  },
+  "range": {
+    "l": 92,
+    "t": 224,
+    "r": 632,
+    "b": 1001
+  }
 }
