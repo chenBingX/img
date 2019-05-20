@@ -39,7 +39,7 @@
     },
     {
       "id": "跳转",
-      "type": "close",
+      "type": "gotoPage",
       "region": [
         {
           "x": 368,
