@@ -1,0 +1,43 @@
+{
+  "viewUrl": "https://gw.alicdn.com/tfs/TB1OrX2XUCF3KVjSZJnXXbnHFXa-720-1200.png",
+  "actions": [
+    {
+      "type": "tag",
+      "region": [
+        {
+          "x": 306,
+          "y": 486
+        },
+        {
+          "x": 315,
+          "y": 519
+        },
+        {
+          "x": 287,
+          "y": 546
+        },
+        {
+          "x": 245,
+          "y": 661
+        },
+        {
+          "x": 227,
+          "y": 655
+        },
+        {
+          "x": 276,
+          "y": 537
+        },
+        {
+          "x": 279,
+          "y": 503
+        }
+      ],
+      "fields": {
+        "tag": "勺子",
+        "color": "#ffffff",
+        "fontSize": "12"
+      }
+    }
+  ]
+}
