@@ -6,7 +6,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload" />
+    <list default="true" id="faeaed7e-6637-4a91-806b-f2e7949474db" name="Default" comment="upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,42 +18,55 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-852413840">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="apk" value="2" />
+          <entry key="gif" value="1" />
+          <entry key="gradle" value="1" />
+          <entry key="png" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="APK" value="2" />
+          <entry key="Groovy" value="1" />
+          <entry key="Image" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="img" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/其它/单内核_微内核_混合内核.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Markdown" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>explore</find>
-      <find>true</find>
-      <find>2</find>
-      <find>&quot;exploreDepth&quot;: 2</find>
-      <find>path</find>
-      <find>&quot;pageUrl&quot;</find>
-      <find>&quot;showChild&quot;</find>
-      <find>&quot;visible&quot;</find>
-      <find>visible</find>
-      <find>actions</find>
-      <find>iconfont iconfont-text</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,28 +75,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/其它文件/page4" />
-        <option value="$PROJECT_DIR$/其它文件/temp" />
-        <option value="$PROJECT_DIR$/其它文件/page3" />
-        <option value="$PROJECT_DIR$/其它文件/page2" />
-        <option value="$PROJECT_DIR$/其它文件/page1" />
-        <option value="$PROJECT_DIR$/其它文件/item_demo" />
-        <option value="$PROJECT_DIR$/其它文件/taobaodemo1" />
-        <option value="$PROJECT_DIR$/其它文件/taobaodemo2" />
-        <option value="$PROJECT_DIR$/其它文件/fliggydialog" />
-        <option value="$PROJECT_DIR$/其它文件/anxingpiao" />
-        <option value="$PROJECT_DIR$/其它文件/tagdemo" />
-        <option value="$PROJECT_DIR$/其它文件/test2" />
-        <option value="$PROJECT_DIR$/其它文件/test" />
-        <option value="$PROJECT_DIR$/其它文件/duang_js_1" />
+        <option value="$USER_HOME$/flutter/packages/flutter_tools/gradle/flutter.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="1099" />
-    <option name="width" value="920" />
-    <option name="height" value="612" />
+    <option name="x" value="59" />
+    <option name="y" value="46" />
+    <option name="width" value="1100" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -89,6 +91,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,17 +102,7 @@
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="img" type="b2602c69:ProjectViewProjectNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="stv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="img" type="b2602c69:ProjectViewProjectNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="其它" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="img" type="b2602c69:ProjectViewProjectNode" />
@@ -120,7 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,15 +121,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Flutter" />
-      <recent name="$PROJECT_DIR$/其它" />
       <recent name="$PROJECT_DIR$/stv" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
+      <recent name="$PROJECT_DIR$/其它" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/stv" />
-      <recent name="$PROJECT_DIR$/其它文件" />
-      <recent name="$PROJECT_DIR$/Flutter" />
       <recent name="$PROJECT_DIR$/机器学习相关" />
     </key>
   </component>
@@ -183,7 +171,6 @@
       <method />
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
@@ -196,7 +183,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -217,363 +204,243 @@
       <option name="presentableId" value="Default" />
       <updated>1539844804668</updated>
     </task>
+    <task id="LOCAL-00001" summary="upload">
+      <created>1551715448751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551715448753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload">
+      <created>1539864604824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539864604824</updated>
+    </task>
+    <task id="LOCAL-00003" summary="upload">
+      <created>1539864970105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539864970105</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upload">
+      <created>1539865426353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539865426353</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upload">
+      <created>1539865549885</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539865549885</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upload">
+      <created>1539865704032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539865704032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="upload">
+      <created>1539878929832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539878929832</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upload">
+      <created>1539879864182</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539879864182</updated>
+    </task>
+    <task id="LOCAL-00009" summary="upload">
+      <created>1539880185802</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539880185802</updated>
+    </task>
+    <task id="LOCAL-00010" summary="upload">
+      <created>1539883013627</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539883013627</updated>
+    </task>
+    <task id="LOCAL-00011" summary="upload">
+      <created>1539883547262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539883547262</updated>
+    </task>
+    <task id="LOCAL-00012" summary="upload">
+      <created>1539886490306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1539886490306</updated>
+    </task>
+    <task id="LOCAL-00013" summary="upload">
+      <created>1539888037728</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1539888037728</updated>
+    </task>
+    <task id="LOCAL-00014" summary="upload">
+      <created>1539888114990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1539888114990</updated>
+    </task>
+    <task id="LOCAL-00015" summary="upload">
+      <created>1539889183766</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1539889183766</updated>
+    </task>
+    <task id="LOCAL-00016" summary="upload">
+      <created>1539890465123</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1539890465123</updated>
+    </task>
+    <task id="LOCAL-00017" summary="upload">
+      <created>1539891025273</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1539891025273</updated>
+    </task>
+    <task id="LOCAL-00018" summary="upload">
+      <created>1539891646501</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1539891646501</updated>
+    </task>
+    <task id="LOCAL-00019" summary="upload">
+      <created>1540135105997</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1540135105997</updated>
+    </task>
     <task id="LOCAL-00020" summary="upload">
-      <created>1557481357615</created>
+      <created>1540135417048</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1557481357615</updated>
+      <updated>1540135417048</updated>
     </task>
     <task id="LOCAL-00021" summary="upload">
-      <created>1557482154926</created>
+      <created>1540135705662</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1557482154926</updated>
+      <updated>1540135705662</updated>
     </task>
     <task id="LOCAL-00022" summary="upload">
-      <created>1557482250126</created>
+      <created>1540696109155</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1557482250126</updated>
+      <updated>1540696109156</updated>
     </task>
     <task id="LOCAL-00023" summary="upload">
-      <created>1557482729067</created>
+      <created>1540696471302</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1557482729067</updated>
+      <updated>1540696471302</updated>
     </task>
     <task id="LOCAL-00024" summary="upload">
-      <created>1557483019179</created>
+      <created>1540696690044</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1557483019179</updated>
+      <updated>1540696690044</updated>
     </task>
     <task id="LOCAL-00025" summary="upload">
-      <created>1557483049606</created>
+      <created>1540699018237</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1557483049606</updated>
+      <updated>1540699018237</updated>
     </task>
     <task id="LOCAL-00026" summary="upload">
-      <created>1557746117915</created>
+      <created>1540700134495</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1557746117915</updated>
+      <updated>1540700134495</updated>
     </task>
     <task id="LOCAL-00027" summary="upload">
-      <created>1557798042861</created>
+      <created>1540704720395</created>
       <option name="number" value="00027" />
       <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1557798042861</updated>
+      <updated>1540704720395</updated>
     </task>
     <task id="LOCAL-00028" summary="upload">
-      <created>1557798169366</created>
+      <created>1540705018778</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1557798169366</updated>
+      <updated>1540705018778</updated>
     </task>
     <task id="LOCAL-00029" summary="upload">
-      <created>1557798989637</created>
+      <created>1540705733979</created>
       <option name="number" value="00029" />
       <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1557798989637</updated>
+      <updated>1540705733979</updated>
     </task>
     <task id="LOCAL-00030" summary="upload">
-      <created>1557799532463</created>
+      <created>1540706120518</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1557799532463</updated>
+      <updated>1540706120518</updated>
     </task>
     <task id="LOCAL-00031" summary="upload">
-      <created>1557839146521</created>
+      <created>1540706817723</created>
       <option name="number" value="00031" />
       <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1557839146521</updated>
+      <updated>1540706817723</updated>
     </task>
     <task id="LOCAL-00032" summary="upload">
-      <created>1557839374814</created>
+      <created>1540709330878</created>
       <option name="number" value="00032" />
       <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1557839374814</updated>
+      <updated>1540709330878</updated>
     </task>
-    <task id="LOCAL-00033" summary="upload">
-      <created>1557840616732</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1557840616732</updated>
-    </task>
-    <task id="LOCAL-00034" summary="upload">
-      <created>1557883567869</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1557883567869</updated>
-    </task>
-    <task id="LOCAL-00035" summary="upload">
-      <created>1557883920334</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1557883920334</updated>
-    </task>
-    <task id="LOCAL-00036" summary="upload">
-      <created>1557894213471</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1557894213471</updated>
-    </task>
-    <task id="LOCAL-00037" summary="upload">
-      <created>1557895159870</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1557895159870</updated>
-    </task>
-    <task id="LOCAL-00038" summary="upload">
-      <created>1557899309180</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1557899309180</updated>
-    </task>
-    <task id="LOCAL-00039" summary="upload">
-      <created>1557899774496</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1557899774496</updated>
-    </task>
-    <task id="LOCAL-00040" summary="upload">
-      <created>1557901264114</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1557901264114</updated>
-    </task>
-    <task id="LOCAL-00041" summary="upload">
-      <created>1557906633511</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1557906633511</updated>
-    </task>
-    <task id="LOCAL-00042" summary="upload">
-      <created>1557906758494</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1557906758494</updated>
-    </task>
-    <task id="LOCAL-00043" summary="upload">
-      <created>1557907340736</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1557907340736</updated>
-    </task>
-    <task id="LOCAL-00044" summary="upload">
-      <created>1557910725811</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1557910725811</updated>
-    </task>
-    <task id="LOCAL-00045" summary="upload">
-      <created>1557910768965</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1557910768965</updated>
-    </task>
-    <task id="LOCAL-00046" summary="upload">
-      <created>1557915737590</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1557915737590</updated>
-    </task>
-    <task id="LOCAL-00047" summary="upload">
-      <created>1557915971205</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1557915971205</updated>
-    </task>
-    <task id="LOCAL-00048" summary="upload">
-      <created>1557916219854</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1557916219854</updated>
-    </task>
-    <task id="LOCAL-00049" summary="upload">
-      <created>1557916454523</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1557916454523</updated>
-    </task>
-    <task id="LOCAL-00050" summary="upload">
-      <created>1558063996058</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1558063996058</updated>
-    </task>
-    <task id="LOCAL-00051" summary="upload">
-      <created>1558064232148</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1558064232148</updated>
-    </task>
-    <task id="LOCAL-00052" summary="upload">
-      <created>1558081660080</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1558081660083</updated>
-    </task>
-    <task id="LOCAL-00053" summary="upload">
-      <created>1558084475439</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1558084475439</updated>
-    </task>
-    <task id="LOCAL-00054" summary="upload">
-      <created>1558087332823</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1558087332824</updated>
-    </task>
-    <task id="LOCAL-00055" summary="upload">
-      <created>1558087608703</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1558087608703</updated>
-    </task>
-    <task id="LOCAL-00056" summary="upload">
-      <created>1558087905504</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1558087905504</updated>
-    </task>
-    <task id="LOCAL-00057" summary="upload">
-      <created>1558088568371</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1558088568371</updated>
-    </task>
-    <task id="LOCAL-00058" summary="upload">
-      <created>1558088763751</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1558088763751</updated>
-    </task>
-    <task id="LOCAL-00059" summary="upload">
-      <created>1558346465662</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1558346465666</updated>
-    </task>
-    <task id="LOCAL-00060" summary="upload">
-      <created>1558346647536</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1558346647536</updated>
-    </task>
-    <task id="LOCAL-00061" summary="upload">
-      <created>1558348852777</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1558348852777</updated>
-    </task>
-    <task id="LOCAL-00062" summary="upload">
-      <created>1558349492118</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1558349492118</updated>
-    </task>
-    <task id="LOCAL-00063" summary="upload">
-      <created>1558349749099</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1558349749099</updated>
-    </task>
-    <task id="LOCAL-00064" summary="upload">
-      <created>1558349952105</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1558349952106</updated>
-    </task>
-    <task id="LOCAL-00065" summary="upload">
-      <created>1558402111989</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1558402111991</updated>
-    </task>
-    <task id="LOCAL-00066" summary="upload">
-      <created>1558435129648</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1558435129658</updated>
-    </task>
-    <task id="LOCAL-00067" summary="upload">
-      <created>1558442705155</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1558442705156</updated>
-    </task>
-    <task id="LOCAL-00068" summary="upload">
-      <created>1560148691754</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1560148691755</updated>
-    </task>
-    <option name="localTasksCounter" value="69" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="1099" width="920" height="612" extended-state="0" />
+    <frame x="59" y="46" width="1100" height="847" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45785877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4258189" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Designer" order="6" />
-      <window_info id="Resources Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -581,12 +448,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31509626" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23742455" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31598514" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24964337" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="My Stcok" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -599,40 +465,7 @@
       <window_info anchor="right" id="Flutter Inspector" order="9" />
       <window_info anchor="right" id="Flutter Outline" order="10" />
       <window_info anchor="right" id="GfmBrowser" order="11" />
-      <window_info anchor="right" id="Color Manager" order="12" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5644769" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Captures" order="5" weight="0.25" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50243306" side_tool="true" weight="0.38425198" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32831737" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4975669" visible="true" weight="0.30179444" />
-      <window_info anchor="bottom" id="Mirror" order="11" />
-      <window_info anchor="bottom" id="Statistic" order="12" />
-      <window_info anchor="bottom" id="CheckStyle" order="13" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="PlantUML" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Artist Preview" order="5" weight="0.3299389" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Color Manager" order="8" weight="0.3299389" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -644,46 +477,6 @@
       </list>
     </option>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -692,12 +485,63 @@
       <collection />
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="重新配置图片库" />
     <MESSAGE value="upload" />
     <option name="LAST_COMMIT_MESSAGE" value="upload" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.59.png" />
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.15.42.png" />
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.51.33.png" />
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-04-18 08.16.22.png" />
+    <entry file="file://$PROJECT_DIR$/stv/屏幕快照 2017-11-16 01.46.23.png" />
+    <entry file="file://$PROJECT_DIR$/stv/渐变色.png" />
+    <entry file="file://$PROJECT_DIR$/stv/多Adjuster演示.gif" />
+    <entry file="file://$PROJECT_DIR$/stv/图片下载演示2.gif" />
+    <entry file="file://$PROJECT_DIR$/stv/图片下载列表演示.gif" />
+    <entry file="file://$PROJECT_DIR$/stv/SuperTextView.gif" />
+    <entry file="file://$PROJECT_DIR$/stv/SuperTextView_yuan 2.png" />
+    <entry file="file://$PROJECT_DIR$/stv/圆角图.png" />
+    <entry file="file://$PROJECT_DIR$/机器学习相关/0范数近似图像.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/hot-reload.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutterdemo1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/flutter-跨平台.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/flutter-ui多.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-plugin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/flutter-架构.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-活跃度.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidStudio/AS下载插件.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidStudio/安装Flutter插件.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidStudio/进入AS设置界面.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -731,164 +575,56 @@
     <entry file="file://$PROJECT_DIR$/Flutter/Text下面有线.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/Flutter通信1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flutter/listdemo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/flutter-install.png">
+    <entry file="file://$PROJECT_DIR$/Flutter/imgrect.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-logo.png">
+    <entry file="file://$PROJECT_DIR$/Flutter/canvas-src.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-plugin.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/Flutter-demo4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/httpdemo1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/dst.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/src.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/shadow.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/arctruestroke.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/arcfalsestroke.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/AlertDialog.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/AnimDemo1.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/混合开发demo.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/dstcolor.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/temp.md" />
-    <entry file="file://$PROJECT_DIR$/其它文件/temp">
+    <entry file="file://$USER_HOME$/flutter/packages/flutter_tools/gradle/flutter.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="392">
+          <caret line="159" column="37" selection-start-line="159" selection-start-column="37" selection-end-line="159" selection-end-column="37" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/page1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-961">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/flutter_android.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flutter/创建FlutterApp.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/其它文件/STVDemo.apk">
       <provider selected="true" editor-type-id="apk-viewer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/item_demo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="185" column="28" selection-start-line="185" selection-start-column="19" selection-end-line="185" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/page2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5632">
-          <caret line="256" column="6" selection-start-line="256" selection-start-column="6" selection-end-line="256" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/page3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/page4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/anxingpiao">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="82" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/fliggydialog">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/core-scripting.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/test2" />
-    <entry file="file://$PROJECT_DIR$/其它文件/duang_js_1" />
-    <entry file="file://$PROJECT_DIR$/其它文件/test" />
-    <entry file="file://$PROJECT_DIR$/其它文件/taobaodemo1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/taobaodemo2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3608">
-          <caret line="164" column="13" selection-start-line="164" selection-start-column="7" selection-end-line="164" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/其它文件/tagdemo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="112" column="1" lean-forward="true" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stv/drawable点击事件.gif">
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasskew2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/其它/单内核_微内核_混合内核.png">
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasskew.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasrotatecenter.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasrotatesrc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasrotate1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasrotate原理.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasscalescale.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/canvasscalesrc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flutter/canvastranslate.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/如何在iphone上测试.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
