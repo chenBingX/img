@@ -31,3 +31,5 @@ ui/build/
 build/intermediates/
 */build/
 build
+
+!/.idea/
